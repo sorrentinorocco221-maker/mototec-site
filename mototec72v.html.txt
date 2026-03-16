@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MotoTec 72V Electric Scooter</title>
+
+<style>
+body{
+font-family: Arial, Helvetica, sans-serif;
+margin:0;
+background:#f4f4f4;
+color:#333;
+}
+
+header{
+background:#111;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+.container{
+width:90%;
+max-width:1100px;
+margin:auto;
+padding:30px 0;
+}
+
+.product{
+display:grid;
+grid-template-columns:1fr 1fr;
+gap:40px;
+background:white;
+padding:30px;
+border-radius:8px;
+box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+.product img{
+width:100%;
+border-radius:6px;
+}
+
+.price{
+font-size:28px;
+color:#e63946;
+margin:10px 0;
+}
+
+.specs{
+margin-top:20px;
+}
+
+.specs li{
+padding:6px 0;
+}
+
+button{
+background:#111;
+color:white;
+border:none;
+padding:12px 20px;
+font-size:16px;
+cursor:pointer;
+border-radius:5px;
+}
+
+button:hover{
+background:#333;
+}
+
+.reviews{
+margin-top:40px;
+background:white;
+padding:30px;
+border-radius:8px;
+box-shadow:0 4px 10px rgba(0,0,0,0.1);
+}
+
+.review{
+border-bottom:1px solid #ddd;
+padding:15px 0;
+}
+
+.review:last-child{
+border-bottom:none;
+}
+
+.stars{
+color:#f5b50a;
+font-size:18px;
+}
+
+.reviewer{
+font-weight:bold;
+}
+
+.date{
+color:#777;
+font-size:14px;
+}
+
+footer{
+text-align:center;
+padding:20px;
+margin-top:40px;
+background:#111;
+color:white;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>MotoTec 72V Electric Scooter</h1>
+<p>High Performance Electric Ride</p>
+</header>
+
+<div class="container">
+
+<div class="product">
+
+<div>
+<img src="https://mototecusa.com/images/products/mototec-72v-electric-scooter.jpg">
+</div>
+
+<div>
+
+<h2>MotoTec 72V Electric Scooter</h2>
+
+<p class="price">$1,899</p>
+
+<p>
+The MotoTec 72V Electric Scooter delivers powerful acceleration, durable construction,
+and a smooth riding experience.
+</p>
+
+<div class="specs">
+<h3>Specifications</h3>
+
+<ul>
+<li><strong>Battery:</strong> 72V Lithium Battery</li>
+<li><strong>Motor:</strong> High Power Electric Motor</li>
+<li><strong>Top Speed:</strong> 25 MPH</li>
+<li><strong>Range:</strong> Up to 30 miles</li>
+<li><strong>Charging Time:</strong> 6–8 hours</li>
+<li><strong>Brakes:</strong> Hydraulic Disc Brakes</li>
+<li><strong>Weight Capacity:</strong> 300 lbs</li>
+</ul>
+
+</div>
+
+<button>Add to Cart</button>
+
+</div>
+</div>
+
+<div class="reviews">
+
+<h2>Customer Reviews ⭐⭐⭐⭐⭐ (4.8/5)</h2>
+
+<div class="review">
+<div class="stars">★★★★★</div>
+<div class="reviewer">James R.</div>
+<div class="date">February 12, 2026</div>
+<p>
+This scooter is insane for the price. Hits around 25 mph easily and the battery lasts
+longer than I expected. Definitely recommend.
+</p>
+</div>
+
+<div class="review">
+<div class="stars">★★★★★</div>
+<div class="reviewer">Melissa T.</div>
+<div class="date">January 30, 2026</div>
+<p>
+Bought this for commuting and it's been great so far. Smooth ride and plenty of power.
+Charging overnight works perfectly.
+</p>
+</div>
+
+<div class="review">
+<div class="stars">★★★★☆</div>
+<div class="reviewer">Carlos M.</div>
+<div class="date">January 18, 2026</div>
+<p>
+Very solid build and good speed. I wish the seat was a little softer but overall
+it's a great scooter.
+</p>
+</div>
+
+<div class="review">
+<div class="stars">★★★★★</div>
+<div class="reviewer">Danielle K.</div>
+<div class="date">December 22, 2025</div>
+<p>
+Super fun to ride. Acceleration surprised me and the brakes feel very safe.
+I've been riding it every day.
+</p>
+</div>
+
+</div>
+
+</div>
+
+<footer>
+<p>© 2026 MotoTec Electric Scooters</p>
+</footer>
+
+</body>
+</html>
